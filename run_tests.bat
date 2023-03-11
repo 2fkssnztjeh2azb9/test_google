@@ -1,0 +1,1 @@
+pytest --driver=Chrome --html=report.html
